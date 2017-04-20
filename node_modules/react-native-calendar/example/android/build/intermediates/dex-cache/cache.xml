@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-5a9b33c0e1d6be50c2de2f99911a343b8ec720e4.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-6dc6c6fef75355d2197520ef912724778b16032f.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-a041f2f8ff1493800bffcf8f765c2b6816fd397f.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-caf0d2de2f7a7a21307bba1e66df497596d7c5bf.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-31ae6d54bee3cae896ab4f651909f187c9895bca.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-1aa2e6a4e44e1e5f73fc71130eb2355e4d09d9d0.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.0-rc1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ad2d790e68f62a39057921e2f90c08c0837979">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-9fca404216467058ac7e50d0820eda35b99a8fb3.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-2b6a59d9b80a538c876cdf60a7009c7383f4273f.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5d62365abe9a704f1d10c6c1b38653b558abb59">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-9687fe2fe9bcfa7b031f32572a2afd4237c4c2bd.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-d08fc489692126b296804fd55f5ac9a58c0ade46.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-9d0627dc6d4aa3896de0392768363d17116c33ed.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-494f9ed88e9534c518c019fe2e0e24502ed9b9a8.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-07ee401a50a5e5bd930a8f2adc20f98c94764a03.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-cce362a7603c38926a519264779c6b69dd1f4ce4.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-2acd1f1819ec670bc98f1e95b64fd4a883edc5c4.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-07a643f826dde9c435fe6472264489e75f0eb781.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-a162615384a5d38e360562ab91497183e700d484.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.m2/repository/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-756ea7307728fa82c8df0b6498f4bc9528a0a004.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-1bd86069df963440adf7e4d7882235857d7bfc42.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-b3f120e37266bd85386abcf0d8243c2b322dbcae.jar" />
+    </item>
+    <item
+        jar="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/christopherdro/Desktop/react-native-calendar/example/android/app/build/intermediates/pre-dexed/debug/classes-fb62aae168be83ceae9eef62e690c73d84b6d2d0.jar" />
+    </item>
+
+</items>

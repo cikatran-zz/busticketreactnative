@@ -1,0 +1,11 @@
+#!/bin/bash
+_now=$(date)
+# set -x
+echo "Downloading files from transify"
+
+python download_sources.py 56dd69cb41927ced14e90b64 th vi
+
+\cp -fr strings_en.xml ../../app/src/vn/res/values/strings.xml
+\cp -fr strings_vi.xml ../../app/src/vn/res/values-vi/strings.xml
+
+echo "Files Copied to project directory"
